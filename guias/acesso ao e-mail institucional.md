@@ -23,6 +23,20 @@ Após concluir o passo adicional em "Observação' ou ter digitado diretamente o
 
 ![Image](https://github.com/user-attachments/assets/140335d9-13d0-4f76-8f30-bac1bdcea166)
 
-4. Feito isso, você será redirecionado para a página "Mais informações necessárias". Clique no botão azul, "Avançar" para revelar a próxima tela, que pede para você inserir um número de telefone. Esse procedimento é **opcional**, e funciona apenas como uma oportunidade de te oferecer proteção adicional para sua conta. Visando a segurança de nossos alunos, embora seja um passo opcional, reforçarmos que é **altamente recomendado**. Para adicionar essa camada de segurança, é simples. Primeiramente, você precisa selecionar o código internacional do seu país (Uma especie de DDD global). Por conta de o Outlook ser propriedade da Microsoft, e essa ter sua sede nos Estados Unidos, por padrão, o código internacional selecionado será o dos EUA (+1). Você precisará clicar na seta dentro do bloco identificado em vermelho para abrir a seleção de países, e escolher Brasil ou Brazil (A grafia do nosso país em inglês), que acompanha o código +55.
+4. Na tela "Mais informações necessárias", clique no botão azul **"Avançar"**. Em seguida, o Outlook oferecerá a opção de adicionar um número de telefone para aumentar a segurança da sua conta. Esse passo é opcional, mas altamente recomendado.  
 
-5. ![Image](https://github.com/user-attachments/assets/199700b6-aecf-4a76-8d7b-3209c9aa9a8a)
+Se decidir adicionar, siga estes passos:  
+
+4.1 **Escolha o código do país:** O padrão será dos EUA (+1), mas você deve selecionar **Brasil (+55)** na lista. Acesse a lista no campo identificado em vermelho.
+
+4.2 **Digite seu número de telefone**, incluindo o DDD.  
+
+4.3 **Escolha como receber o código de verificação:** por SMS ou ligação através das opções no campo identificado em azul.
+
+4.4 **Confirme no botão "próximo" e siga para a etapa seguinte.**  
+
+Se não quiser adicionar o número, basta clicar em **"Pular configuração"** no campo identificado em verde.
+
+![Image](https://github.com/user-attachments/assets/199700b6-aecf-4a76-8d7b-3209c9aa9a8a)
+
+5. Caso tenha realizado o passo 4, insira o código no espaço indicado e confirme. Sua caixa de entrada agora está pronta para ser acessada. Caso não tenha realizado o passo 4, avançe normalmente após clicar em **Pular configuração**.
