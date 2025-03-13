@@ -59,9 +59,13 @@ Nesta seção, você encontrará soluções rápidas para algumas das perguntas 
 
 🔹 O uso é permitido para atividades pedagógicas, incluindo a verificação de segurança. Depois de concluir, desligue o aparelho.
 
-### 📲 Preciso baixar o aplicativo de autenticação? ### 
+### ✏️ Preciso baixar o aplicativo de autenticação? ### 
 
 🔹 Não. O Microsoft Authenticator é opcional. Se preferir, continue usando a verificação por telefone.
+
+### 💻 O Outlook possui uma versão em app? ###
+
+🔹  Sim. O Outlook tem um app para dispositivos móveis e tablets, disponível para download gratuito. As diferenças em relação à versão web são mínimas, sendo uma questão de preferência.
 
 ---
 ### 📬 Precisa de mais ajuda? ###
