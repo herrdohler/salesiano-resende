@@ -11,17 +11,17 @@ b) Acessar diretamente o site: [Outlook Web](https://outlook.office.com) - https
 
 2. Uma vez na página inicial do Outlook, você será instruído a digitar o endereço de e-mail no campo de login.
 
-**OBSERVAÇÃO**: Se você pesquisar no Google, é provável que a página de entrada do Outlook apareça antes da página inicial descrita no passo 2.. Sem problemas! Caso aconteça, basta clicar no botão "entrar" (imagem abaixo).
+**OBSERVAÇÃO**: Se você pesquisar no Google, é provável que a página de entrada do Outlook apareça antes da página inicial descrita no passo 2. Sem problemas! Caso aconteça, basta clicar no botão "entrar" (imagem abaixo).
 
-![Image](https://i.imgur.com/8YSyB7X.png)
+![Image](https://i.imgur.com/gnFAye6.png)
 
 2.1 Depois de seguir a observação anterior ou acessar diretamente o site do Outlook, digite seu e-mail institucional no campo indicado.
 
-![Image](https://i.imgur.com/8CyakGC.png)
+![Image](https://i.imgur.com/8YSyB7X.png)
 
 3. Após executar o passo 2, preencha o espaço indicado com a senha fornecida pela escola.
    
-![Image](https://github.com/user-attachments/assets/140335d9-13d0-4f76-8f30-bac1bdcea166)
+![Image](https://i.imgur.com/8CyakGC.png)
 
 4. Na tela 'Mais informações necessárias', clique em **Avançar**. Em seguida, o Outlook oferecerá a opção de adicionar um número de telefone para aumentar a segurança da sua conta. Esse passo é opcional, mas **altamente recomendado**.  
 
