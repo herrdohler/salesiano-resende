@@ -4,8 +4,9 @@ A plataforma **Edebê** oferece acesso a materiais didáticos digitais, como liv
 
 ###  1. Acesso Inicial  ###
 
-- Ao ser matriculado, o aluno recebe uma **carta de acesso** da Edebê com suas credenciais (e-mail institucional, nome de usuário e senha gerada aleatoriamente).
-- Utilize essas informações para fazer login na plataforma.
+- Acesse a plataforma em [Edebê](https://plataforma.edebe.com.br/) - https://plataforma.edebe.com.br/
+- Ao ser matriculado, o aluno recebe uma **carta de acesso** da Edebê com suas credenciais (e-mail institucional, nome de usuário e senha gerada aleatoriamente) identificadas no campo em vermelho.
+- Utilize essas informações para fazer login na plataforma na área identificada pela carta em verde.
 
 ![Image](https://i.imgur.com/qRfxS8t.png)
 
@@ -38,7 +39,7 @@ A plataforma **Edebê** oferece acesso a materiais didáticos digitais, como liv
 🔹 Use a matrícula ou e-mail institucional para login.
 
 ### 🔐 Como redefinir minha senha? ###
-🔹 Contate a **Coordenação de Tecnologia Educacional** para gerar uma nova carta de acesso.
+🔹 Contate a **Coordenação de Tecnologia Educacional** para gerar uma nova carta de acesso. O passo 2 deverá ser refeito.
 
 ### 📱 Posso usar no celular? ###
 🔹 A Edebê deve ser usada preferencialmente no **tablet** em sala de aula.
