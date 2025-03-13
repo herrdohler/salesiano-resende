@@ -1,5 +1,5 @@
 ## Guia simples de acesso ao e-mail institucional ##
-Todos os alunos do nosso instituto receberam em sala, para fins acadêmicos, um e-mail com o domínio (ou sufixo) "@salevirtual.com.br".Esse endereço é utilizado para acessar plataformas digitais e também serve como caixa de entrada para comunicados e outras correspondências acadêmicas. Nesse rápido tutorial, iremos explorar como acessar essa caixa postal. Siga o passo a passo abaixo:
+Todos os alunos do nosso instituto receberam em sala, para fins acadêmicos, um e-mail com o domínio (ou sufixo) "@salevirtual.com.br". Esse endereço é utilizado para acessar plataformas digitais e também serve como caixa de entrada para comunicados e outras correspondências acadêmicas. Nesse rápido tutorial, iremos explorar como acessar essa caixa postal. Siga o passo a passo abaixo:
 
 **IMPORTANTE**: Os e-mails com o domínio @salevirtual.com.br são gerenciados pela Microsoft. Isso significa que, ao invés de serem acessados pelo Gmail, como muitos estão acostumados, eles funcionam através do Outlook, o serviço de e-mail da Microsoft.
 
