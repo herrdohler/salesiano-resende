@@ -13,11 +13,11 @@ b) Acessar diretamente o site: [Outlook Web](https://outlook.office.com) - https
 
 **OBSERVAÇÃO**: Se você pesquisar no Google, é provável que a página de entrada do Outlook apareça antes da página inicial descrita no passo 2.. Sem problemas! Caso aconteça, basta clicar no botão "entrar" (imagem abaixo).
 
-![Image](https://github.com/user-attachments/assets/77c06e04-03c1-4b3e-b05e-49eea36aef46)
+![Image](https://i.imgur.com/8YSyB7X.png)
 
-ADepois de seguir a observação anterior ou acessar diretamente o site do Outlook, digite seu e-mail institucional no campo indicado.
+2.1 Depois de seguir a observação anterior ou acessar diretamente o site do Outlook, digite seu e-mail institucional no campo indicado.
 
-![Image](https://github.com/user-attachments/assets/ca941bd8-9a2f-4136-94f1-af5b2cb00851)
+![Image](https://i.imgur.com/8CyakGC.png)
 
 3. Após executar o passo 2, preencha o espaço indicado com a senha fornecida pela escola.
    
@@ -37,7 +37,7 @@ Se decidir adicionar, siga estes passos:
 
 Se não quiser adicionar o número, basta clicar em **"Pular configuração"** no campo identificado em verde.
 
-![Image](https://github.com/user-attachments/assets/199700b6-aecf-4a76-8d7b-3209c9aa9a8a)
+![Image](https://i.imgur.com/VB5Vtzu.png)
 
 5. Se você seguiu o passo 4, insira o código no campo indicado e confirme. Caso não tenha realizado o passo 4, avance normalmente após clicar em **Pular configuração**.
    
