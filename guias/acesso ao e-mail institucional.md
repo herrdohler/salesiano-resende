@@ -29,7 +29,7 @@ Se decidir adicionar, siga estes passos:
 
 4.1 **Escolha o código do país:** O padrão será dos EUA (+1), mas você deve selecionar **Brasil (+55)** na lista. Acesse a lista no campo identificado em vermelho.
 
-4.2 **Digite seu número de telefone**, incluindo o DDD.  
+4.2 **Digite um número de telefone**, incluindo o DDD.  
 
 4.3 **Escolha como receber o código de verificação:** por SMS ou ligação através das opções no campo identificado em azul.
 
