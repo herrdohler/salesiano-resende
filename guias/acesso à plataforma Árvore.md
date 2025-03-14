@@ -11,7 +11,7 @@ A **Árvore de livros** é uma plataforma gamificada para leitura. Basicamente, 
 
 ![Image](https://i.imgur.com/ZklNHr3.png)
 
-**ATENÇÃO**: O código de acesso deve ser inserido como **e-mail** e não como **senha**. Caso contrário, um erro será gerado.
+**ATENÇÃO**: O código de acesso deve ser inserido como **e-mail** e não como **senha**. Caso contrário, um erro ocorrerá.
 
 ![Image](https://i.imgur.com/re1wr2N.png)
 
