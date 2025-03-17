@@ -2,7 +2,9 @@
 Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégio Salesiano de Resende. Este espaço foi criado para oferecer suporte aos alunos, professores e colaboradores no uso das principais plataformas educacionais utilizadas na instituição.
 
 🔹 Objetivo: Facilitar o acesso a tutoriais e resolver dúvidas frequentes sobre o uso das ferramentas digitais da escola.
+
 🔹 Público-alvo: Alunos, professores e funcionários que utilizam os sistemas educacionais e administrativos.
+
 🔹 Formato: Tutoriais detalhados com imagens e instruções passo a passo.
 
 📌 📂 Índice dos Guias
