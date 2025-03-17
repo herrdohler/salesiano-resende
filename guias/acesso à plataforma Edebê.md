@@ -12,7 +12,7 @@ A plataforma **Edebê** oferece acesso a materiais didáticos digitais, como liv
 
 ###  2. Alterar Senha  ###
 
-- No primeiro acesso, o sistema solicitará a troca da senha aleatória pela senha fornecida pela escola.
+- No primeiro acesso, o sistema solicitará a troca da senha. Troque a senha aleatória pela senha fornecida pela escola.
 - O nome de usuário também pode ser alterado opcionalmente, desde que obedeça as normas da instituição (combinação de nome e sobrenome).
 
 ![Image](https://i.imgur.com/PSXTn6n.png)
