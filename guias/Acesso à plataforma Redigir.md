@@ -24,7 +24,7 @@ A **Redigir** é a nossa plataforma utilizada para upload e correção de redaç
 🔹 Pode ficar descansado! A Coordenação de Tecnologia Educacional é responsável por inserir os laudos e qualquer documentação necessária para garantir uma experiência agradável para todos.
 
 ### 🧠 Esqueci de acessar o link de redefinição e ele expirou. E agora? ###
-🔹 Sem pânico! Basta clicar em "Esqueci minha senha" na tela de login para que um novo link seja enviado para seu **e-mail institucional**
+🔹 Sem pânico! Basta clicar em "Esqueci minha senha" na tela de login para que um novo link seja enviado para seu **e-mail institucional**.
 
 ![Image](https://i.imgur.com/Va1ve3b.png)
 
