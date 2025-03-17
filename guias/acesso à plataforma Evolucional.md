@@ -7,7 +7,7 @@ A **Evolucional** é nossa plataforma para simulados e disciplinas tecnológicas
 
 ![Image](https://i.imgur.com/dYgT0KX.png)
 
-3. Entre com seu **e-mail institucional** e **senha fornecida pela escola**.
+3. Entre com seu **e-mail institucional** e **senha fornecida pela escola ou sua senha antiga**
 
 ![image](https://i.imgur.com/pctBkIf.png)
 
