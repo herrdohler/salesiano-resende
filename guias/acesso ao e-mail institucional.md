@@ -61,7 +61,7 @@ Nesta seção, você encontrará soluções rápidas para algumas das perguntas 
 
 ### ✏️ Preciso baixar o aplicativo de autenticação? ### 
 
-🔹 Não. O Microsoft Authenticator é opcional. Se preferir, continue usando a verificação por telefone.
+🔹 Adicionei o número de telefone como verificação de segurança. Agora, me é sugerido o app Microsoft Authenticator. Preciso baixar ele? Não. O Microsoft Authenticator é opcional. Se preferir, continue usando a verificação por telefone.
 
 ### 💻 O Outlook possui uma versão em app? ###
 
