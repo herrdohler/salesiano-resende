@@ -31,5 +31,3 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 ## 🛠 Sugestões e Atualizações ##
 
 📩 Este repositório está em constante evolução. Caso tenha sugestões de melhorias ou identifique informações desatualizadas, entre em contato com a Coordenação de Tecnologia Educacional.
-
-📍 Ramal: 307
