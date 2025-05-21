@@ -1,0 +1,10 @@
+# Inclui arquivos SQL na análise do GitHub Linguist
+*.sql linguist-detectable=true
+
+# Marca arquivos Markdown como documentação, para não contaminar estatísticas de linguagem
+*.md linguist-documentation
+
+# Tratamento de finais de linha para evitar problemas de compatibilidade entre sistemas
+*.sh text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
