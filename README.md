@@ -18,13 +18,17 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 
 ## 📝 Formato ##
 
-📌 Tutoriais detalhados com imagens e instruções passo a passo, organizados de forma clara e acessível.
+📁 Tutoriais detalhados com imagens e instruções passo a passo, organizados de forma clara e acessível.
 
 ## 📌 Índice dos Guias ##
 
-📂 Guias de Acesso
 
-1️⃣ [Como acessar as plataformas educacionais](https://github.com/herrdohler/guias-salesiano-resende/tree/bd9b889b6278daddac6289ccd92e9a2393b3fed8/guias)
+
+1️⃣ [Guias de acesso](https://github.com/herrdohler/guias-salesiano-resende/tree/bd9b889b6278daddac6289ccd92e9a2393b3fed8/guias)
+
+2️⃣ [Boas práticas de acesso](https://github.com/herrdohler/salesiano-resende/blob/6d881279eb1681dd6e2fd4bb0a8d1ecf29ae5764/guias/Guia%20T%C3%A9cnico%3A%20Boas%20Pr%C3%A1ticas%20de%20Uso%20de%20Plataformas%20Educacionais.md)
+
+3️⃣ [Tecnologias](https://github.com/herrdohler/salesiano-resende/tree/6d881279eb1681dd6e2fd4bb0a8d1ecf29ae5764/tecnologias)
 
 🔜 Mais guias em breve!
 
