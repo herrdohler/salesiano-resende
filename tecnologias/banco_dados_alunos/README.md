@@ -15,8 +15,8 @@ Este diretório contém scripts SQL para estruturação e manutenção de um ban
 ## 🛠️ Estrutura
 
 - **estrutura_tabela.sql**: define a estrutura da tabela principal `dados_alunos`.
-- **insercao_dados_exemplo.sql**: exemplo de inserção de registros fictícios.
-- **consultas_frequentes.sql**: consultas utilizadas para manutenção e diagnósticos.
+- **insercao_dados_exemplo.sql** e **consultas_frequentes.sql**: exemplos de inserção e consulta de registros fictícios, respectivamente. 
+- **scripts**: arquivos .sql com códigos comentados para consultas estratégicas e organização automatizada de dados.
 
 ## ⚠️ Atenção
 
@@ -30,4 +30,4 @@ Este diretório contém scripts SQL para estruturação e manutenção de um ban
 
 ## 📄 Licença
 
-MIT License.
+MIT License
