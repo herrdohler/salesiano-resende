@@ -30,6 +30,8 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 
 3️⃣ [Tecnologias](https://github.com/herrdohler/salesiano-resende/tree/6d881279eb1681dd6e2fd4bb0a8d1ecf29ae5764/tecnologias)
 
+4️⃣ [Banco de dados](https://github.com/herrdohler/salesiano-resende/tree/e1431d4695387e4f0c0f424de44748766b2344e5/tecnologias/banco_dados_alunos)
+
 🔜 Mais guias em breve!
 
 ## 🛠 Sugestões e Atualizações ##
