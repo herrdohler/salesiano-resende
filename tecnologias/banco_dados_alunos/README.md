@@ -35,8 +35,8 @@ Todos os scripts abaixo foram **testados e aprovados** em ambiente controlado.
 
 | Script | Status |
 |--------|--------|
-| `script_versionamento_dados.sql` | ✔️ Testado e aprovado |
-| `script_emails_turma.sql` | ✔️ Testado e aprovado |
+| `script_matricula_por_turma.sql` | ✔️ Testado e aprovado |
+| `script_email_por_turma.sql` | ✔️ Testado e aprovado |
 | `script_relatorio_alunos_por_turma.sql` | ✔️ Testado e aprovado |
 | `script_auditoria_matriculas_duplicadas.sql` | ✔️ Testado e aprovado |
 
