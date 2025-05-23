@@ -8,7 +8,7 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 
 🔹 Disponibilizar materiais de suporte para capacitação de alunos, professores e funcionários.
 
-## 👥 Público-alvo ##
+## 👥 Público-alvo ## 
 
 ✔ Alunos – Para garantir que saibam como acessar e utilizar as plataformas educacionais.
 
