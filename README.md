@@ -52,6 +52,9 @@ Este resultado consolidou uma melhoria significativa na eficiência operacional 
 
 ## 👤 Autor ##
 
-Arthur Döhler Machado Fernandes
+Arthur Döhler
 
-Coordenador de Tecnologia Educacional – Colégio Salesiano de Resende
+Coordenador de Tecnologia Educacional 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdohler)  
+
