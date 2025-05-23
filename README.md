@@ -20,9 +20,21 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 
 📁 Tutoriais detalhados com imagens e instruções passo a passo, organizados de forma clara e acessível.
 
+📊 Dashboards interativos e relatórios automatizados para acompanhamento da gestão tecnológica.
+
+## 🏆 Impacto e Resultados ##
+
+🚀 Redução de mais de 60% nos chamados técnicos no Colégio Salesiano de Resende em apenas três meses, por meio de:
+
+- Reorganização de acessos e padronização de credenciais.
+
+- Capacitação sistemática dos usuários nas principais plataformas educacionais.
+
+- Automação do monitoramento via Dashboard de Chamados Técnicos.
+
+Este resultado consolidou uma melhoria significativa na eficiência operacional e no suporte aos processos pedagógicos da instituição.
+
 ## 📌 Índice dos Guias ##
-
-
 
 1️⃣ [Guias de acesso](https://github.com/herrdohler/guias-salesiano-resende/tree/bd9b889b6278daddac6289ccd92e9a2393b3fed8/guias)
 
@@ -37,3 +49,9 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 ## 🛠 Sugestões e Atualizações ##
 
 📩 Este repositório está em constante evolução. Caso tenha sugestões de melhorias ou identifique informações desatualizadas, entre em contato com a Coordenação de Tecnologia Educacional.
+
+## 👤 Autor ##
+
+Arthur Döhler Machado Fernandes
+
+Coordenador de Tecnologia Educacional – Colégio Salesiano de Resende
