@@ -13,7 +13,7 @@ Bem-vindo ao repositório oficial de Guias e Materiais de Treinamento do Colégi
 ✔ Alunos – Para garantir que saibam como acessar e utilizar as plataformas educacionais.
 
 ✔ Professores – Para otimizar a experiência no uso das ferramentas digitais no ensino híbrido.
-
+ 
 ✔ Funcionários – Para facilitar a gestão e administração dos sistemas institucionais.
 
 ## 📝 Formato ##
