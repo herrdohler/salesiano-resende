@@ -49,12 +49,3 @@ Este resultado consolidou uma melhoria significativa na eficiência operacional 
 ## 🛠 Sugestões e Atualizações ##
 
 📩 Este repositório está em constante evolução. Caso tenha sugestões de melhorias ou identifique informações desatualizadas, entre em contato com a Coordenação de Tecnologia Educacional.
-
-## 👤 Autor ##
-
-Arthur Döhler
-
-Coordenador de Tecnologia Educacional 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdohler)  
-
