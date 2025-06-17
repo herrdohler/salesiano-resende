@@ -31,6 +31,8 @@ Os dashboards foram construídos com base nos seguintes conjuntos de dados reais
 
 - [📥 Histórico de Ações e Melhorias (CSV)](./data/historico_acoes.csv)
 
+- [📚 Data Dictionary (MD)](./data/data_dictionary.md)
+
 **Nota:**  
 
 Os arquivos estão anonimizados e contêm apenas informações operacionais, respeitando a privacidade de alunos, responsáveis e colaboradores.
