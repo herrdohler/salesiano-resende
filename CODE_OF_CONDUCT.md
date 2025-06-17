@@ -23,6 +23,7 @@ Solicitações de Pull Request e Issues são bem-vindas apenas se relacionadas a
 ## 📬 Contato
 
 Para dúvidas ou sugestões, entre em contato pelo LinkedIn:  
+
 [https://www.linkedin.com/in/arthur-dohler](https://www.linkedin.com/in/arthur-dohler)
 
 ---
