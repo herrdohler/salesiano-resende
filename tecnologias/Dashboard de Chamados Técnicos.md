@@ -23,6 +23,18 @@ Seu objetivo é **automatizar a análise de chamados técnicos**, permitindo à 
 - Gráfico de **pizza com divisão por perfil do solicitante** (aluno, professor, responsável).
 - Dados atualizados dinamicamente com base no Google Sheets, eliminando necessidade de envio manual mensal.
 
+## 📂 Base de Dados Utilizada
+
+Os dashboards foram construídos com base nos seguintes conjuntos de dados reais da Coordenação de Tecnologia Educacional do Colégio Salesiano de Resende:
+
+- [📥 Registro de Chamados Técnicos (CSV)](./data/registro_chamados.csv)
+
+- [📥 Histórico de Ações e Melhorias (CSV)](./data/historico_acoes.csv)
+
+**Nota:**  
+
+Os arquivos estão anonimizados e contêm apenas informações operacionais, respeitando a privacidade de alunos, responsáveis e colaboradores.
+
 ## 📉 Captura de tela
 
 ![Dashboard](https://i.imgur.com/m1uEqlG.jpeg)
