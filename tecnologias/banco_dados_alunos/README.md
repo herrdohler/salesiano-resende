@@ -1,38 +1,49 @@
-![SQL](https://img.shields.io/badge/SQL-Structured--Query--Language-blue)
-![SQLite](https://img.shields.io/badge/SQLite-3.39%2B-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Testado%20e%20Aprovado-brightgreen)
+## 📌 Badges
 
-# Banco de Dados de Alunos - Salesiano Resende
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey)
+![Workbench](https://img.shields.io/badge/GUI-Workbench-brightgreen)
+![Projeto Ativo](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-Este diretório contém scripts SQL para estruturação e manutenção de um banco de dados local, utilizado no suporte à gestão de matrículas e dados de alunos do Colégio Salesiano de Resende.
+# 📘 Gestão de Dados Escolares com MySQL Workbench
 
-## 🎯 Objetivo
+Este repositório documenta a evolução do projeto de gestão de dados dos alunos do Colégio Salesiano de Resende, com foco na estruturação, otimização e profissionalização do banco de dados usando o SGBD MySQL.
 
-- Centralizar dados de matrícula para facilitar consultas frequentes e relatórios técnicos.
-- Minimizar erros manuais na manipulação de planilhas.
-- Otimizar processos com automação e scripts SQL.
+## 🔍 Visão Geral
 
-## 🛠️ Estrutura
+Diante de uma realidade em que os dados estavam descentralizados e propensos a erros manuais, assumi a responsabilidade de transformar a gestão da informação dos alunos. O processo teve como marcos principais:
 
-- **estrutura_tabela.sql**: define a estrutura da tabela principal `dados_alunos`.
-- **insercao_dados_exemplo.sql** e **consultas_frequentes.sql**: exemplos de inserção e consulta de registros fictícios, respectivamente.
-- **scripts**: arquivos `.sql` com códigos comentados para consultas estratégicas e organização automatizada de dados.
-- **triggers**: sistema de versionamento automático via Triggers, que registra todas as alterações, inserções e exclusões realizadas na tabela `dados_alunos`.
+1. **Criação inicial em Google Sheets**: 
+   - Inserção manual de cerca de 500 alunos.
+   - Utilização de filtros manuais para buscas.
 
-## ⚠️ Atenção
+2. **Migração para SQLite (DB Browser)**:
+   - Após formação em SQL na Alura, identifiquei as vantagens de usar um SGBD local para integridade e consultas estruturadas.
+   - Contudo, enfrentei limitações quanto à usabilidade, principalmente pela ausência de interface gráfica para consultas simples.
 
-> Nenhum dado sensível real foi incluído. Todos os exemplos são fictícios e seguem boas práticas de proteção de dados.
+3. **Transição definitiva para MySQL Workbench**:
+   - Decidi migrar para o MySQL devido à robustez, possibilidade de escalabilidade, segurança e recursos visuais.
+   - Iniciei nova formação em MySQL e executei a importação dos dados com sucesso.
+   - Criei também uma versão sanitizada dos dados para fins de portfólio e testes públicos.
 
-## 📦 Tecnologias
+## 🧪 Tecnologias Utilizadas
 
-- SQLite
-- DB Browser for SQLite
-- SQL
+- `MySQL` – SGBD relacional utilizado para a versão final do banco
+- `MySQL Workbench` – Interface gráfica utilizada para administração, visualização e execução de scripts
+- `SQL` – Linguagem de manipulação e consulta dos dados
+- `Alura` – Plataforma utilizada para formação técnica em bancos de dados relacionais
 
-## ✅ Testes e Aprovações
+## 💾 Estrutura do Banco (Versão Portfólio)
 
-Todos os scripts abaixo foram **testados e aprovados** em ambiente controlado.
+- **Schema**: `escola_exemplo`
+- **Tabela**: `dados_alunos`
+- **Campos**:
+  - `matricula` (VARCHAR) – Chave primária
+  - `nome_completo` (VARCHAR)
+  - `e_mail` (VARCHAR)
+  - `turma` (VARCHAR)
+
+## 📎 Scripts
 
 | Script | Status |
 |--------|--------|
@@ -41,19 +52,24 @@ Todos os scripts abaixo foram **testados e aprovados** em ambiente controlado.
 | `script_relatorio_alunos_por_turma.sql` | ✔️ Testado e aprovado |
 | `script_auditoria_matriculas_duplicadas.sql` | ✔️ Testado e aprovado |
 
-## 🛡️ Versionamento Automático com Triggers
+## 🏁 Próximos Passos
 
-Este projeto inclui um sistema de auditoria automática via Triggers, que mantém um registro completo das alterações realizadas na tabela dados_alunos:
+- Aplicar filtros automáticos via Workbench e explorar **Views**
+- Criar **Triggers** para logging de alterações futuras
+- Automatizar relatórios com integração Looker Studio
 
-UPDATE → Registra automaticamente mudanças nos campos e_mail e turma.
+## ✍️ Autor
 
-INSERT → Registra automaticamente novas matrículas, incluindo nome_completo, matricula, e_mail e turma.
+Arthur Döhler Machado Fernandes  
+Coordenador de Tecnologia Educacional | Especialista em Linguística e Dados  
 
-DELETE → Registra automaticamente exclusões ou transferências, mantendo o histórico completo dos dados removidos.
+## 🧭 Histórico da Implementação
 
-Essa abordagem garante rastreabilidade, integridade e governança de dados no ambiente escolar.
+Este banco de dados é fruto de uma evolução contínua na gestão de dados escolares. Inicialmente, os registros de matrícula eram mantidos de forma manual em planilhas Google Sheets. Ao perceber a alta incidência de erros manuais e a dificuldade de localização de informações por turma, o banco foi migrado para o DB Browser (SQLite), após conclusão de uma formação em SQL pela Alura.
 
+Com a necessidade de realizar consultas repetidas e simples de forma mais eficiente, e em busca de maior usabilidade, segurança e performance, o projeto foi posteriormente migrado para o **MySQL**. Essa nova estrutura possibilitou o uso de interface gráfica amigável por meio do MySQL Workbench, além de permitir expansão futura com novas funcionalidades e integrações mais robustas.
 
+A tabela `dados_alunos` foi recriada com dados fictícios para este repositório, assegurando a privacidade de alunos reais.
 
 ## 📄 Licença
 
