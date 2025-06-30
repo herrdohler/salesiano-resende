@@ -1,3 +1,5 @@
+-- SCRIPTS MAIS UTILIZADOS NA VERSÃO DO BANCO DE DADOS EM DB BROWSER
+
 -- Consulta para listar todos os registros de alunos
 SELECT * FROM dados_alunos;
 
