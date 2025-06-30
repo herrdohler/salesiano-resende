@@ -1,4 +1,4 @@
--- Criação da tabela principal que armazenará os dados dos alunos
+-- Estrutura de criação da tabela principal que armazenará os dados dos alunos
 CREATE TABLE dados_alunos (
     -- Número de matrícula único de cada aluno
   `matricula` varchar(20) NOT NULL,
