@@ -61,7 +61,9 @@ Diante de uma realidade em que os dados estavam descentralizados e propensos a e
 ## ✍️ Autor
 
 Arthur Döhler Machado Fernandes  
-Coordenador de Tecnologia Educacional | Especialista em Linguística e Dados  
+Coordenador de Tecnologia Educacional 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdohler)  
 
 ## 🧭 Histórico da Implementação
 
