@@ -22,11 +22,9 @@ Solicitações de Pull Request e Issues são bem-vindas apenas se relacionadas a
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato pelo LinkedIn:  
+Para dúvidas ou sugestões, entre em contato:  
 
-[https://www.linkedin.com/in/arthur-dohler](https://www.linkedin.com/in/arthur-dohler)
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdohler)  
 
 Este código de conduta é baseado em princípios de respeito mútuo e boas práticas da comunidade open source.
 
