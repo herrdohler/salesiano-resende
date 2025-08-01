@@ -1,5 +1,4 @@
-# 📚 Treinamentos Ministrados – Arthur Döhler
-
+# 📚 Treinamentos Ministrados 
 Esta pasta reúne materiais de **treinamentos corporativos e educacionais** que ministrei ao longo da minha atuação como Coordenador de Tecnologia Educacional, com foco em integração de plataformas, capacitação de equipes e inovação pedagógica com base em soluções digitais.
 
 ## 🎯 Propósito
