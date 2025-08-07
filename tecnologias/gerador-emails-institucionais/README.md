@@ -5,17 +5,11 @@
 [![Uso interno](https://img.shields.io/badge/Aplicação-Educacional-green)]()
 [![Licença](https://img.shields.io/badge/uso-interno-lightgrey)]()
 
----
-
 Este projeto automatiza a geração de e-mails institucionais únicos para alunos do Colégio Salesiano de Resende, com base no nome completo do aluno. O objetivo é **evitar duplicatas** no domínio oficial `@salevirtual.com.br`, simulando uma base local de e-mails já existentes.
-
----
 
 ## 🎯 Objetivo
 
 Facilitar o processo de matrícula e a criação de e-mails institucionais para novos alunos, reduzindo o risco de erros manuais e melhorando a padronização de nomes.
-
----
 
 ## ⚙️ Como funciona
 
@@ -26,16 +20,12 @@ Facilitar o processo de matrícula e a criação de e-mails institucionais para 
   - `nome.sobrenome1@salevirtual.com.br`
   - `nome.sobrenome2@salevirtual.com.br`, etc.
 
----
-
 ## ▶️ Instruções de uso
 
 1. Execute o arquivo `gerador_emails.py` usando o IDLE do Python ou terminal;
 2. Digite o nome completo solicitado;
 3. O e-mail sugerido será exibido na tela;
 4. O e-mail será automaticamente registrado no arquivo `emails_existentes.txt`.
-
----
 
 ## 📁 Estrutura do projeto
 
@@ -49,8 +39,6 @@ gerador-emails-salevirtual/
 
 > ℹ️ **Aviso:** Todos os dados contidos no arquivo `emails_existentes.txt` são **fictícios**, criados exclusivamente para testes locais durante o desenvolvimento do módulo.
 
----
-
 ## 🧠 Tecnologias aplicadas
 
 - Python 3.10+
@@ -58,8 +46,6 @@ gerador-emails-salevirtual/
 - Manipulação de arquivos (`open`, leitura/escrita em `.txt`)
 - Conjuntos (`set`) para evitar duplicatas
 - Lógica de fallback para nomes repetidos
-
----
 
 ## 📸 Exemplo de execução
 
@@ -74,16 +60,12 @@ Digite o nome completo do aluno (ou 'sair' para encerrar): João Silva
 E-mail sugerido: joao.silva1@salevirtual.com.br
 ```
 
----
-
 ## 👤 Autor
 
 Arthur Döhler  
 Coordenador de Tecnologia Educacional  
 Colégio Salesiano de Resende  
-[GitHub](https://github.com/arthurdoehler) • [LinkedIn](https://www.linkedin.com/in/arthurdoehler)
-
----
+[LinkedIn](https://www.linkedin.com/in/arthur-dohler/)
 
 ## 🔐 Licença e uso
 
