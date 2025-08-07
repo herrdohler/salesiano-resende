@@ -1,0 +1,6 @@
+Digite o nome completo do aluno (ou 'sair' para encerrar): João Silva
+E-mail sugerido: joao.silva@salevirtual.com.br
+Digite o nome completo do aluno (ou 'sair' para encerrar): João Silva
+E-mail sugerido: silva.joao@salevirtual.com.br
+Digite o nome completo do aluno (ou 'sair' para encerrar): João Silva
+E-mail sugerido: joao.silva1@salevirtual.com.br
