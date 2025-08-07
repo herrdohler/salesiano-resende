@@ -63,8 +63,6 @@ Todos os nomes registrados no arquivo `lista_de_presenca.txt` deste repositório
 
 - Nome: **Arthur Döhler Machado Fernandes**
 - Cargo: Coordenador de Tecnologia Educacional
-- Contato: [LinkedIn](https://www.linkedin.com/in/arthurdohler)
-
----
+- Contato: [LinkedIn](https://www.linkedin.com/in/arthur-dohler/)
 
 *Este projeto foi criado como parte de um processo de aprendizado ativo em Python, com orientação técnica mas autoria própria de estrutura e lógica. Está disponível para fins educacionais e demonstração profissional.*
