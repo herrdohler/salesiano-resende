@@ -3,7 +3,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-lightgrey)
 ![Workbench](https://img.shields.io/badge/GUI-Workbench-brightgreen)
-![Projeto Ativo](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Projeto Ativo](https://img.shields.io/badge/Status-%20Concluído-brightgreen)
 
 # 📘 Gestão de Dados Escolares com MySQL Workbench
 
